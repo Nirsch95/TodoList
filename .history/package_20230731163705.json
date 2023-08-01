@@ -1,0 +1,14 @@
+{
+  "name": "backend-todo-list",
+  "version": "1.0.0",
+  "description": "Reto Polpo",
+  "main": "app.js",
+  "scripts": {
+    "test": "main"
+  },
+  "author": "Andres Castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
